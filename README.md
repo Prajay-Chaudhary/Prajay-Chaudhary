@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Prajay-Chaudhary
-- 👀 I’m interested in building websites and talking about technologies.
+- 👀 I’m interested in building web application and talking about technologies.
 - 🌱 I’m currently learning FullStack Development.
 - 📫 Want to hire me? . Reach me at prajaychaudhary5678@gmail.com
 
