@@ -4,13 +4,13 @@
 
 🌱 As a FullStack Developer, I'm proficient in a diverse range of technologies including:
   Technical Skills:
-- Back-End: Ruby, Ruby on Rails, Redis, Sidekiq, Python, Java, API Development (RESTful APIs)
+- Back-End: Ruby, Ruby on Rails, Redis, Sidekiq, Python, Java, API Development (RESTful APIs), Spring Boot, Django, node js
 - Front-End: React JS, Vue.js (constantly improving), Tailwind CSS, JavaScript, Angular, Bootstrap, Chakra UI
 - Databases: MySQL, SQL Server, PostgreSQL, NoSQL
-- Tools: Postman, Git, Figma, Visual Studio Code, NetBeans, GitHub
+- Tools: Postman, Git, Figma, Visual Studio Code, NetBeans, GitHub, Jenkins, Maven
 - Web Security: Authentication, Authorization, JWT, Network and System Analysis
-- DevOps: Amazon S3 (Cloud Computing), Heroku
-- Languages: Intermediate in French, Advanced English, and Advanced Nepali
+- DevOps: Amazon S3 (Cloud Computing), Heroku, Kubernetes and Vercel
+- Languages: French and English
 
 Interests:
 My diverse skill set is complemented by a passion for innovation and technology. I actively engage in coding challenges, participate in hackathons, and stay up-to-date with emerging technological trends. Automated testing, AI, machine learning, and cloud computing intrigue me, driving me to explore new horizons.
