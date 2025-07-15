@@ -1,27 +1,37 @@
-👋 Hi, I’m @Prajay-Chaudhary, currently pursuing a Master's specialization in Full Stack Development at Sup De Vinci école d'informatique.
+👋 Hi, I’m @Prajay-Chaudhary, a passionate Full Stack Engineer currently completing a Master’s specialization in Full Stack Development at Sup de Vinci – École d’informatique in Paris.
 
-👀 I’m passionate about crafting engaging web applications and discussing the latest technologies.
+🚀 Actively seeking a full-time position (CDI) starting from September/October 2025.
 
-🌱 As a FullStack Developer, I'm proficient in a diverse range of technologies including:
-  Technical Skills:
-- Back-End: Python, Java, Spring Boot, Quarkus, node js, Ruby on Rails, Redis, Sidekiq, API Development (RESTful APIs), Django.
-- Front-End: Typescript, Angular, React JS, Vue.js (constantly improving), Tailwind CSS, JavaScript, Bootstrap, Chakra UI.
-- Databases: MySQL, SQL Server, MongoDB, PostgreSQL
-- Tools: IntelliJ IDEA, Docker, Postman, Git, Figma, Visual Studio Code, NetBeans, GitHub, Jenkins, Maven.
-- Web Security: Keycloack, Authentication, Authorization, JWT, Network and System Analysis.
-- DevOps: AWS(Cloud Computing), Heroku, Kubernetes, Helm, and Vercel.
-- Languages: French and English
-- AI: Machine learning.
+👀 I’m enthusiastic about building engaging web and mobile applications, solving real-world problems through code, and staying current with the latest tech trends.
 
-Interests:
-My diverse skill set is complemented by a passion for innovation and technology. I actively engage in coding challenges, participate in hackathons, and stay up-to-date with emerging technological trends. Automated testing, AI, machine learning, and cloud computing intrigue me, driving me to explore new horizons.
+💻 Technical Skills:
 
-🛠️ You can explore my GitHub repositories to see some of the projects I've worked on previously.
+Back-End:
+• Python, Java, Spring Boot, Node.js, Django, RESTful API development
 
-🎓 I'm currently seeking a company for a work-study program opportunity, where I can contribute my skills while learning and growing alongside professionals in the field.
+Front-End:
+• Angular, React.js, JavaScript, TypeScript, Tailwind CSS, Bootstrap, Chakra UI
 
-📫 Feel free to connect with me at contact@prajaychaudhary.com or prajaychaudhary5678@gmail.com to discuss collaboration or opportunities.
+Databases:
+• MySQL, PostgreSQL, MongoDB
 
-Let's connect and build amazing things together!
+DevOps & Deployment:
+• AWS (Cloud Computing), Docker, Kubernetes, Helm, Jenkins, Heroku, Vercel
+
+Tools & IDEs:
+• IntelliJ IDEA, Visual Studio Code, Postman, Git, GitHub, NetBeans, Maven, Figma
+
+Security & Auth:
+• Keycloak, JWT, Authentication & Authorization, Network/System Analysis
+
+Languages:
+• French 🇫🇷 and English 🇬🇧
+
+Other:
+• Basics of Machine Learning and AI
+
+💡 Interests:
+
+I’m driven by curiosity and innovation. I actively participate in coding challenges, hackathons, and stay engaged with evolving technologies like automated testing, AI/ML, and cloud-native architectures.
 
 
