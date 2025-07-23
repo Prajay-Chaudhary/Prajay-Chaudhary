@@ -1,19 +1,19 @@
 👋 Hi, I’m @Prajay-Chaudhary, a passionate Full Stack Engineer currently completing a Master’s specialization in Full Stack Development at Sup de Vinci – École d’informatique in Paris.
 
-🚀 Actively seeking a full-time position (CDI) starting from September/October 2025.
+🚀 Actively seeking a full-time position (CDI) starting from September 2025.
 
 👀 I’m enthusiastic about building engaging web and mobile applications, solving real-world problems through code, and staying current with the latest tech trends.
 
 💻 Technical Skills:
 
 Back-End:
-• Python, Java, Spring Boot, Node.js, Django, RESTful API development
+• Python, Java, Spring Boot, Node.js, Django, RESTful API/GraphQL design and development
 
 Front-End:
 • Angular, React.js, JavaScript, TypeScript, Tailwind CSS, Bootstrap, Chakra UI
 
 Databases:
-• MySQL, PostgreSQL, MongoDB
+• MySQL, PostgreSQL, MongoDB, Redis
 
 DevOps & Deployment:
 • AWS (Cloud Computing), Docker, Kubernetes, Helm, Jenkins, Heroku, Vercel
