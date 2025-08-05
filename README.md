@@ -7,10 +7,10 @@
 💻 Technical Skills:
 
 Back-End:
-• Python, Java, Spring Boot, Node.js, NestJS, Django, Ruby on Rails, RESTful API/GraphQL design and development
+• Python, Java, Spring Boot, Node.js, NestJS, Django, Ruby on Rails, C#, RESTful API/GraphQL design and development
 
 Front-End:
-• Angular, React.js, React Native/Expo, JavaScript, TypeScript, Tailwind CSS, Bootstrap, Chakra UI
+• Angular, React.js, Next.js, React Native/Expo, JavaScript, TypeScript, Tailwind CSS, Bootstrap, Chakra UI
 
 Databases:
 • MySQL, PostgreSQL, MongoDB, Redis
