@@ -1,8 +1,8 @@
-👋 Hi, I’m @Prajay-Chaudhary, a passionate Full Stack Engineer currently completing a Master’s specialization in Full Stack Development at Sup de Vinci – École d’informatique in Paris.
+👋 Hi, I’m @Prajay-Chaudhary, a passionate Full Stack Engineer with 3+ years of hands-on experience building scalable web and mobile applications. I hold a Master’s degree with a specialization in Full Stack Development from Sup de Vinci – École d’informatique, Paris.
 
-🚀 Actively seeking a full-time position (CDI) starting from September 2025.
+🚀 Actively seeking a full-time position (CDI), available immediately.
 
-👀 I’m enthusiastic about building engaging web and mobile applications, solving real-world problems through code, and staying current with the latest tech trends.
+👀 I enjoy building engaging, high-quality applications, solving real-world problems through code, and continuously learning new technologies to stay up to date in a fast-evolving tech landscape.
 
 💻 Technical Skills:
 
