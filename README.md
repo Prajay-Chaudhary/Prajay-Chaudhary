@@ -1,4 +1,4 @@
-👋 Hi, I’m Prajay Chaudhary, a passionate Full-Stack Software Engineer/ Developer with 4+ years of hands-on experience building scalable web and mobile applications. I hold a Master’s degree specializing in Full-Stack Development from Sup de Vinci – École d’informatique, Paris.
+👋 Hi, I’m Prajay Chaudhary, a passionate Full-Stack Software Engineer/ Developer with 4+ years of hands-on experience building scalable web and mobile applications.
 
 🚀 Actively seeking a full-time position (CDI) and available immediately.
 
